@@ -1,0 +1,29 @@
+{
+  "name": "plain-html-css-js-crud-front",
+  "version": "1.0.0",
+  "description": "This is a plain html, css-bem-staructured , venilla-js crud project that receives api and request through api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atiq31951/plain-html-css-js-crud-front.git"
+  },
+  "keywords": [
+    "vanilla-js",
+    "raw-html-css-js-crud"
+  ],
+  "author": "Atiqur rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atiq31951/plain-html-css-js-crud-front/issues"
+  },
+  "homepage": "https://github.com/Atiq31951/plain-html-css-js-crud-front#readme",
+  "dependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/polyfill": "^7.6.0",
+    "axios": "^0.19.0",
+    "js-yaml": "^3.13.1"
+  }
+}
